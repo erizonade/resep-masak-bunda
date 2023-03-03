@@ -1,6 +1,6 @@
 # Resep Masakan Bunda
 
-A new Flutter project.
+A new Flutter project. You can contribution in project Resep Masakan Bunda
 
 ## Getting Started
 
